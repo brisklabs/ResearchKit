@@ -14,7 +14,7 @@ Signal processing filter
 - https://scipy-cookbook.readthedocs.io/items/ButterworthBandpass.html
 
 **iOS**
-```
+```swift
  float A = sqrt(pow(10.0f, (G/20.0f)));
  float beta = sqrt(A / Q);
  
@@ -35,7 +35,7 @@ An easy way to evaluate the accuracy of the model is to calculate a ratio of the
 Let’s create a getAccuracy function which sums the total correct predictions and returns the accuracy as a percentage of correct classifications.
 
 **Python**
-```
+```python
 def getAccuracy(testSet, predictions):
     correct = 0
     for x in range(len(testSet)):
@@ -43,7 +43,7 @@ def getAccuracy(testSet, predictions):
             correct += 1
     return (correct/float(len(testSet))) * 100.0
 ```
-```
+```python
 testSet = [[1,1,1,'a'], [2,2,2,'a'], [3,3,3,'b']]
 predictions = ['a', 'a', 'a']
 accuracy = getAccuracy(testSet, predictions)
