@@ -19,5 +19,4 @@ Signal processing filter
  b2 = (A * ((A + 1) + ((A - 1) * omegaC) - (beta * omegaS)))     / a0;
  a1 = (2 * ((A - 1) - ((A + 1) * omegaC)))                       / a0;
  a2 = ((A + 1) - ((A - 1) * omegaC) - (beta * omegaS))           / a0;
-}
 ```
