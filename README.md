@@ -5,7 +5,8 @@ Open source internal and extended research, We use in our internal and commercia
 - Data Structures and Algorithms
 - Machine Learning, Deep Learning and AI
 
-# Butterworth Band Pass
+# Algorithms
+## Butterworth Band Pass
 Signal processing filter
 - https://en.wikipedia.org/wiki/Butterworth_filter
 
@@ -24,3 +25,12 @@ Signal processing filter
  a1 = (2 * ((A - 1) - ((A + 1) * omegaC)))                       / a0;
  a2 = ((A + 1) - ((A - 1) * omegaC) - (beta * omegaS))           / a0;
 ```
+
+# Machine Learning and Deep Learning
+- **Tensorflow** - https://github.com/tensorflow
+- **PyTorch** - https://github.com/pytorch/pytorch
+- **Keras** - https://keras.io/api/
+- **MXNet** https://github.com/apache/incubator-mxnet
+Nueral Network:
+- **Chainer** - https://github.com/chainer/chainer
+- **Sonne** - https://github.com/deepmind/sonnet
