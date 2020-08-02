@@ -14,7 +14,7 @@ Signal processing filter
 - https://scipy-cookbook.readthedocs.io/items/ButterworthBandpass.html
 
 **iOS**
-```swift
+```c++
  float A = sqrt(pow(10.0f, (G/20.0f)));
  float beta = sqrt(A / Q);
  
