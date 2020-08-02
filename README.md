@@ -1,5 +1,9 @@
-# ResearchKit
-Open source internal and extended research, DL, ML, AI, Data Structures and Algorithms
+# ResearchKit Bookmarks
+Open source internal and extended research, We use in our internal and commercial projects.
+
+**Focus in**
+- Data Structures and Algorithms
+- Machine Learning, Deep Learning and AI
 
 # Butterworth Band Pass
 Signal processing filter
