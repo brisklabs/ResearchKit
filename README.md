@@ -1,9 +1,12 @@
 # ResearchKit Bookmarks
-Open source internal and extended research, We use in our internal and commercial projects.
+Open-source internal and extended research, which we use in our internal and commercial projects.
 
 **Focus in**
 - Data Structures and Algorithms
-- Machine Learning, Deep Learning and AI
+- Machine Learning, Deep Learning, and AI
+- Hosting Service
+- SaaS/PaaS
+- Tools
 
 # Algorithms
 ## Butterworth Band Pass
@@ -58,6 +61,18 @@ print(accuracy)
 - **Keras** - https://keras.io/api/
 - **MXNet** https://github.com/apache/incubator-mxnet
 
-Nueral Network:
+Neural Network:
 - **Chainer** - https://github.com/chainer/chainer
 - **Sonne** - https://github.com/deepmind/sonnet
+
+# Hosting
+- Heroku: www.heroku.com
+- PythonAnywhere: www.pythonanywhere.com
+- AWS Elastic Beanstalk: aws.amazon.com/elasticbeanstalk
+- DigitalOcean: www.digitalocean.com
+- Microsoft Azure: azure.microsoft.com
+- Google Cloud Platform (GCP): cloud.google.com
+- Render: render.com
+- Vercel: vercel.com
+
+
