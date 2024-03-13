@@ -1,12 +1,12 @@
 # ResearchKit Bookmarks
 Open-source internal and extended research, which we use in our internal and commercial projects.
 
-**Focus in**
+**Focus on**
 - Data Structures and Algorithms
 - Machine Learning, Deep Learning, and AI
 - Hosting Service
 - SaaS/PaaS
-- Tools
+- Tools/Frameworks
 
 # Algorithms
 ## Butterworth Band Pass
@@ -74,5 +74,9 @@ Neural Network:
 - Google Cloud Platform (GCP): cloud.google.com
 - Render: render.com
 - Vercel: vercel.com
+
+# Developement Frameworks
+- Ionic: https://ionicframework.com
+- Ant Design: https://ant.design/
 
 
