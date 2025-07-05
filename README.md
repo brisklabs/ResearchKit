@@ -204,4 +204,8 @@ Open-source internal and extended research resources are used across internal an
 - **[Awesome Data Science](https://github.com/academic/awesome-datascience)** – Learning resources for data science  
 - **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)** – Comprehensive deep learning reference  
 - **[Awesome MLOps](https://github.com/visenger/awesome-mlops)** – Tools and practices for ML in production  
-- **[Made with ML](https://madewithml.com/)** – Learn how to build and deploy production-grade ML systems  
+- **[Made with ML](https://madewithml.com/)** – Learn how to build and deploy production-grade ML systems
+
+---
+
+### 👨‍💻 Maintained by [Brisklabs](https://www.brisklabs.dev)
