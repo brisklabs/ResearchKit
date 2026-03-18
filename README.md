@@ -142,5 +142,4 @@ Open-source internal and extended research resources are used across internal an
 
 ---
 
-# 📌 Structure
-Languages → Frameworks → Infra → Testing → Dev Tools → Productivity → Services → AI
+### 👨‍💻 Maintained by [Brisklabs](https://www.brisklabs.dev)
